@@ -228,7 +228,7 @@ body {
 
     }
 
-    .nav_menu:active {
+    .nav_menu.active {
         display: flex;
         background: var(--white);
         visibility: visible;
